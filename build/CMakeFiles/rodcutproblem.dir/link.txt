@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/rodcutproblem.dir/main.cpp.o  -o rodcutproblem -rdynamic 
